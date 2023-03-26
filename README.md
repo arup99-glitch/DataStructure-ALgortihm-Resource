@@ -1,3 +1,3 @@
 # DataStructure-ALgortihm-Resource
 
-https://leetcode.com/
+(https://leetcode.com/)
