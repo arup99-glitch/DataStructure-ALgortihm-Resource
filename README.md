@@ -1,3 +1,3 @@
 # DataStructure-ALgortihm-Resource
 
-(https://leetcode.com/)
+[Algorithm List and Technique List](https://leetcode.com/)
